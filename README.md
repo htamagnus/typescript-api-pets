@@ -44,3 +44,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor m
 ### Licença 📜
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+---
+
+ *Feito com ❤ por Ágatha Magnus* 
