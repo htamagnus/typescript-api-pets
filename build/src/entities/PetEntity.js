@@ -24,6 +24,7 @@ var PetEntity = /** @class */ (function () {
         this.dateBirth = dateBirth;
         this.adopted = adopted;
     }
+    var _a, _b;
     __decorate([
         (0, typeorm_1.PrimaryGeneratedColumn)(),
         __metadata("design:type", Number)
@@ -38,7 +39,7 @@ var PetEntity = /** @class */ (function () {
     ], PetEntity.prototype, "species", void 0);
     __decorate([
         (0, typeorm_1.Column)({ nullable: true }),
-        __metadata("design:type", String)
+        __metadata("design:type", typeof (_b = typeof EnumSize_1.default !== "undefined" && EnumSize_1.default) === "function" ? _b : Object)
     ], PetEntity.prototype, "size", void 0);
     __decorate([
         (0, typeorm_1.Column)(),
@@ -54,7 +55,7 @@ var PetEntity = /** @class */ (function () {
     ], PetEntity.prototype, "adopter", void 0);
     PetEntity = __decorate([
         (0, typeorm_1.Entity)(),
-        __metadata("design:paramtypes", [String, String, Date, Boolean, String])
+        __metadata("design:paramtypes", [String, String, Date, Boolean, typeof (_a = typeof EnumSize_1.default !== "undefined" && EnumSize_1.default) === "function" ? _a : Object])
     ], PetEntity);
     return PetEntity;
 }());
