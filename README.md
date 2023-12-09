@@ -1,4 +1,5 @@
-## Projeto desenvolvido em Typescript, para a construção de uma API com tipagem segura 🌐
+## Projeto desenvolvido em Typescript: construção de uma API com tipagem segura 🌐
+![image](https://github.com/htamagnus/typescript-api-pets/assets/85269068/664875fb-418e-4437-94f3-bd8a98d08de8)
 
 ### Descrição 🚀
 
