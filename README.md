@@ -3,6 +3,7 @@
 ### Descrição 🚀
 
 Este projeto foi desenvolvido em TypeScript, visando a construção de uma API robusta com ênfase na segurança de tipos. Utilizando tecnologias modernas, como **Express**, **SQLite**, **TypeORM**, **Insomnia** e **TypeScript**, o objetivo principal foi criar um **CRUD completo**, solucionar erros de tipos, e aproveitar ao máximo as funcionalidades avançadas proporcionadas pelo **TypeScript**.
+
 ---
 
 ### Tecnologias Utilizadas 💻
@@ -37,6 +38,7 @@ Este projeto foi desenvolvido em TypeScript, visando a construção de uma API r
 ### Contribuições 🤝
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests.
+
 ---
 
 ### Licença 📜
