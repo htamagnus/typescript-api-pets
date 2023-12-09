@@ -1,4 +1,4 @@
-## Projeto desenvolvido em Typescript, para a construção de uma API com tipagem segura.
+## Projeto desenvolvido em Typescript, para a construção de uma API com tipagem segura 🌐
 
 ### Descrição 🚀
 
