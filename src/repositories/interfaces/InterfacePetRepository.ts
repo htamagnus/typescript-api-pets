@@ -2,14 +2,18 @@ import PetEntity from "../../entities/PetEntity";
 import EnumSize from "../../enum/EnumSize";
 
 export default interface InterfacePetRepository {
+  // todos os métodos que dizem que esse repositório é um repositório de pet
   createPet(pet: PetEntity): void | Promise<void>;
+
   listPet(): Array<PetEntity> | Promise<PetEntity[]>;
+  
   updatePet(
     id: number,
     pet: PetEntity
   ): Promise<{ success: boolean; message?: string }> | void;
 
   deletPet(id: number): Promise<{ success: boolean; message?: string }> | void;
+
   adoptPet(
     idPet: number,
     idAdopter: number

@@ -6,7 +6,8 @@ import EnumSize from "../enum/EnumSize";
 @Entity()
 export default class PetEntity {
   @PrimaryGeneratedColumn()
-  id!: number;
+  id!: number; 
+  //o sinal de exclamação serve para dizer que esse campo não vai ser inicializado agora
 
   @Column()
   name: string;
