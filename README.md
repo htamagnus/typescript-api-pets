@@ -1,6 +1,10 @@
 ## Projeto desenvolvido em Typescript: construção de uma API com tipagem segura 🌐
 ![image](https://github.com/htamagnus/typescript-api-pets/assets/85269068/664875fb-418e-4437-94f3-bd8a98d08de8)
 
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/htamagnus/typescript-api-pets/main)
+
+
 ### Descrição 🚀
 
 Este projeto foi desenvolvido em TypeScript, visando a construção de uma API robusta com ênfase na segurança de tipos. Utilizando tecnologias modernas, como **Express**, **SQLite**, **TypeORM**, **Insomnia** e **TypeScript**, o objetivo principal foi criar um **CRUD completo**, solucionar erros de tipos, e aproveitar ao máximo as funcionalidades avançadas proporcionadas pelo **TypeScript**.
