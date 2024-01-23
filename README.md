@@ -1,6 +1,8 @@
-## Projeto desenvolvido em Typescript: construção de uma API com tipagem segura 🌐
-![image](https://github.com/htamagnus/typescript-api-pets/assets/85269068/664875fb-418e-4437-94f3-bd8a98d08de8)
+<h1 align="center" style="font-weight: bold;"> Projeto desenvolvido em Typescript: construção de uma API com tipagem segura 🌐 </h1>
 
+<p align="center">
+![image](https://github.com/htamagnus/typescript-api-pets/assets/85269068/664875fb-418e-4437-94f3-bd8a98d08de8)
+</p>
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/htamagnus/typescript-api-pets/main)
 
