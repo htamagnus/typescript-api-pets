@@ -22,11 +22,17 @@
 
 </h1>
 
+<p align="center">
+ <a href="#descricao">Descrição</a> • 
+  <a href="#routes">API Endpoints</a> •
+ <a href="#colab">Collaborators</a> •
+ <a href="#contribute">Contribute</a>
+</p>
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/htamagnus/typescript-api-pets/main)
 
 
-### Descrição 🚀
+<h3 id="descricao">Descrição 🚀</h3> 
 
 Este projeto foi desenvolvido em TypeScript, visando a construção de uma API robusta com ênfase na segurança de tipos. Utilizando tecnologias modernas, como **Express**, **SQLite**, **TypeORM**, **Insomnia** e **TypeScript**, o objetivo principal foi criar um **CRUD completo**, solucionar erros de tipos, e aproveitar ao máximo as funcionalidades avançadas proporcionadas pelo **TypeScript**.
 
