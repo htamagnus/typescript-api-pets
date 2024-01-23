@@ -1,4 +1,6 @@
 [typescript_BAGDE]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge
+[express_BADGE]: https://img.shields.io/badge/express-005CFE?style=for-the-badge&logo=express
+[mysql_BADGE]: https://img.shields.io/badge/mysql-3178C6?logo=mysql&logoColor=white&style=for-the-badge
 
 
 <h1 align="center" style="font-weight: bold;"> Projeto em Typescript: API com tipagem segura 🌐 </h1>
@@ -8,6 +10,8 @@
 <div align="center">
   
 ![typescript][typescript_BAGDE]
+![express][express_BADGE]
+![mysql][mysql_BADGE]
 
 
 </div>
