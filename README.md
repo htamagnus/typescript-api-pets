@@ -23,22 +23,22 @@
 </h1>
 
 <p align="center">
- <a href="#descricao">Descrição</a> • 
-  <a href="#routes">API Endpoints</a> •
- <a href="#colab">Collaborators</a> •
- <a href="#contribute">Contribute</a>
+ <a href="#descricao">Descrição 🚀</a> • 
+  <a href="#tecnologias">Tecnologias Utilizadas 💻</a> •
+ <a href="#funcionalidades">Funcionalidades Implementadas 🛠️</a> •
+ <a href="#executar">Como Executar ▶️</a>
 </p>
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/htamagnus/typescript-api-pets/main)
 
 
-<h3 id="descricao">Descrição 🚀</h3> 
+<h2 id="descricao">Descrição 🚀</h2> 
 
 Este projeto foi desenvolvido em TypeScript, visando a construção de uma API robusta com ênfase na segurança de tipos. Utilizando tecnologias modernas, como **Express**, **SQLite**, **TypeORM**, **Insomnia** e **TypeScript**, o objetivo principal foi criar um **CRUD completo**, solucionar erros de tipos, e aproveitar ao máximo as funcionalidades avançadas proporcionadas pelo **TypeScript**.
 
 ---
 
-### Tecnologias Utilizadas 💻
+<h2 id="tecnologias">Tecnologias Utilizadas 💻</h2> 
 
 - **Express**: Framework web para Node.js que facilita a construção de APIs robustas e escaláveis.
 - **SQLite**: Sistema de gerenciamento de banco de dados relacional embutido.
@@ -47,7 +47,7 @@ Este projeto foi desenvolvido em TypeScript, visando a construção de uma API r
 - **TypeScript**: Superset de JavaScript que adiciona tipagem estática ao código, proporcionando maior segurança e facilidade na manutenção.
 ---
 
-### Funcionalidades Implementadas 🛠️
+<h2 id="funcionalidades">Funcionalidades Implementadas 🛠️</h2>
 
 - **CRUD Completo**: Desenvolvimento das operações básicas de criação, leitura, atualização e exclusão.
 - **Solução de Erros de Tipos**: Identificação e correção de erros relacionados à tipagem, garantindo um código mais seguro.
@@ -59,7 +59,7 @@ Este projeto foi desenvolvido em TypeScript, visando a construção de uma API r
 - **Filtros Genéricos com Conceito de Tipos**: Implementação de filtros genéricos utilizando conceitos avançados de tipos no TypeScript.
 ---
 
-### Como Executar ▶️
+<h2 id="executar"> Como Executar ▶️ </h2>
 
 1. Clone o repositório: `git clone https://github.com/htamagnus/typescript-api-pets`
 2. Instale as dependências: `npm install`
