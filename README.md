@@ -1,5 +1,16 @@
+[typescript_BAGDE]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge
+
+
 <h1 align="center" style="font-weight: bold;"> Projeto em Typescript: API com tipagem segura 🌐 </h1>
 
+
+
+<div align="center">
+  
+![typescript][typescript_BAGDE]
+
+
+</div>
 
 <h1 align="center">
   
